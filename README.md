@@ -11,7 +11,7 @@ I have a keen interest in 🤝 collaborating and building digital solutions that
 - 🔭 I’m currently working on React Native apps with Nodejs.
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff"> and optimization.
 - ⚡ Available for internship opportunities.
-- 💬 Ask me about web devepment front-end, Programming problem solving and code debugging.
+- 💬 Ask me about Front-end, problem solving and code debugging.
 
 ---
 
