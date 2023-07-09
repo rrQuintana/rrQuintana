@@ -1,8 +1,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rrQuintana.rrQuintana)
 
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Hi there 
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Hi there, I'm Roberto 
 
-I'm a a 👨‍💻 **`Full-Stack`** **`mobile`** and **`web`** developer, occasional **`Designer`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud
+A 👨‍💻 **`Full-Stack`** **`mobile`** and **`web`** developer, occasional **`Designer`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud
 
 Co-founder and Chief Experience Officer of [**`@DevMentes`**](https://devmentes.com)🏆 and team member of [**`@MisDesarrollos`**](https://www.linkedin.com/company/misdesarrollos/mycompany/)💼 as **`Software Development Engineer`**
 
