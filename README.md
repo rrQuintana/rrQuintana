@@ -27,6 +27,7 @@ I have a keen interest in 🤝 collaborating and building digital solutions that
 <img src="https://img.shields.io/badge/-NextJs-000?style=flat&logo=next.js&logoColor=fff">
 <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=4DB33D">
 <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=F29111">
+<img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1">
 <img src="https://img.shields.io/badge/ExpressJs-000?style=flat&logo=express&logoColor=fff">
 <img src="https://img.shields.io/badge/-NodeJs-000?style=flat&logo=Node.js&logoColor=3C873A">
 <img src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase&logoColor=FFA611">
@@ -37,7 +38,7 @@ I have a keen interest in 🤝 collaborating and building digital solutions that
 <img src="https://img.shields.io/badge/-MUI-000?style=flat&logo=mui&logoColor=007FFF">
 
 ### Other Languages and Tech I know
-<img src="http://img.shields.io/badge/-Java-000?style=flat&logo=java&logoColor=F89820"> <img src="https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=#A8B9CC"> <img src="https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus&logoColor=00599C"> <img src="https://img.shields.io/badge/-C sharp-000?style=flat&logo=csharp&logoColor=239120"> <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=#3776AB"> <img src="https://img.shields.io/badge/-Adobe Photoshop-000000?style=flat&logo=adobephotoshop&logoColor=#31A8FF">
+<img src="http://img.shields.io/badge/-Java-000?style=flat&logo=java&logoColor=F89820"> <img src="https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=#A8B9CC"> <img src="https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus&logoColor=00599C"> <img src="https://img.shields.io/badge/-C sharp-000?style=flat&logo=csharp&logoColor=239120"> <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=#3776AB"> <img src="https://img.shields.io/badge/-Adobe Photoshop-000000?style=flat&logo=adobephotoshop&logoColor=#31A8FF"> <img src="http://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown&logoColor=fff"> <img src="http://img.shields.io/badge/-Postman-000?style=flat&logo=postman&logoColor=FF6C37">
 
 
 </div>
