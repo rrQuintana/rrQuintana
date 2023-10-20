@@ -2,14 +2,14 @@
 
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Hi there, I'm Roberto 
 
-A 👨‍💻 **`Full-Stack`** **`mobile`** and **`web`** developer, occasional **`Designer`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud
+A 👨‍💻 **`Full-Stack`** **`mobile`** and **`web`** developer, occasional **`Designer`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯
 
-Co-founder and Chief Experience Officer of [**`@DevMentes`**](https://devmentes.com)🏆 and team member of [**`@MisDesarrollos`**](https://www.linkedin.com/company/misdesarrollos/mycompany/)💼 as **`Software Development Engineer`**
+Co-founder and Chief Experience Officer of [**`@DevMentes`**](https://devmentes.com)🏆 and team member of [**`@MisDesarrollos`**](https://www.linkedin.com/company/misdesarrollos/mycompany/)💼 as **`Software Engineer`**
 
 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
 - 🔭 I’m currently working on React Native apps using Expo.
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff"> and optimization.
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff"> and QA.
 - ⚡ Available for internship opportunities.
 - 💬 Ask me about Front-end, design, problem solving and code debugging.
 
