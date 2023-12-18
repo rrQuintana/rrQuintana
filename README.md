@@ -8,8 +8,7 @@ Co-founder and Chief Experience Officer of [**`@DevMentes`**](https://devmentes.
 
 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
-- 🔭 I’m currently working on React Native apps using Expo.
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff"> and QA.
+- 🔭 I’m currently working on full stack web applications.
 - ⚡ Available for internship opportunities.
 - 💬 Ask me about Front-end, design, problem solving and code debugging.
 
