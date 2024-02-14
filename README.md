@@ -22,6 +22,7 @@ I have a keen interest in 🤝 collaborating and building digital solutions that
 <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux ToolKit-000000?style=flat&logo=redux&logoColor=764abc">
 <img src="https://img.shields.io/badge/-Expo-000?style=flat&logo=expo&logoColor=fff">
 <img src="https://img.shields.io/badge/-NextJs-000?style=flat&logo=next.js&logoColor=fff">
 
@@ -34,6 +35,7 @@ I have a keen interest in 🤝 collaborating and building digital solutions that
 <img src="https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws&logoColor=fff">
 
 <img src="https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=C21325">
+<img src="https://img.shields.io/badge/-Cypress-000?style=flat&logo=Cypress&logoColor=01796f">
 <img src="https://img.shields.io/badge/-Postman-000?style=flat&logo=postman&logoColor=FF6C37">
 <img src="https://img.shields.io/badge/-GraphQL-000?style=flat&logo=graphql&logoColor=E10098">
 
