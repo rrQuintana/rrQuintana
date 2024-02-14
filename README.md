@@ -4,7 +4,7 @@
 
 A 👨‍💻 **`Full-Stack`** **`web`** and **`mobile`** developer, occasional **`designer`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯
 
-Co-founder and Chief Experience Officer of [**`@DevMentes`**](https://devmentes.com)🏆 and team member of `@FGEO`💼 as **`Software Develpment Intern`**.
+Co-founder and Chief Experience Officer of [**`@DevMentes`**](https://devmentes.com)🏆 and team member of [**`@CleverCloud`**](https://www.linkedin.com/company/clever-cloud-global/)💼 as **`Software Engineer Intern`**.
 
 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
