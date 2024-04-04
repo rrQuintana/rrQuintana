@@ -2,13 +2,13 @@
 
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Hi there, I'm Roberto 
 
-A 👨‍💻 **`Full-Stack`** **`web`** and **`mobile`** developer, occasional **`designer`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯
+A 👨‍💻 **`Full-Stack`** **`Web`** and **`Mobile`** developer, occasional **`designer`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯
 
-Co-founder and Chief Experience Officer of [**`@DevMentes`**](https://devmentes.com)🏆 and team member of [**`@CleverCloud`**](https://clevercloud.mx/)💼 as **`Software Engineer Intern`**.
+Co-founder and Chief Experience Officer of [**`@DevMentes`**](https://devmentes.com)🏆 and team member of [**`@DOGO IT`**](https://dogoit.com/)💼 as **`Software Engineer Intern`**.
 
 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
-- 🔭 I’m currently working with the **`MERN`** stack.
+- 🔭 I’m currently working with **`React Native`** developing movile apps 📱.
 - 🌱 I’m currently learning **`Cloud`** and **`Testing`**.
 - 💬 Ask me about **`Front-end`**, **`Design`**, **`Problem Solving`** and **`Code Debugging`**
 - ⚡ Available for **`Freelance`** projects and **`Internships`** opportunities.
