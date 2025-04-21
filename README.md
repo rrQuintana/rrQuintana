@@ -1,23 +1,21 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rrQuintana.rrQuintana)
 
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Hi there, I'm Roberto 
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Hey, I'm Roberto 👋
 
-A 👨‍💻 **`Full-Stack`** **`Web`** and **`Mobile`** developer, occasional **`designer`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯
+I'm a **Full-Stack Web and Mobile Developer** with a strong focus on crafting reliable, maintainable, and impactful digital products. With a background that blends technology, design thinking, and real-world problem solving, I aim to build tools that matter 
+— not just code that runs.
 
-Co-founder and Chief Experience Officer of [**`@DevMentes`**](https://devmentes.com)🏆 and team member of [**`@DOGO IT`**](https://dogoit.com/)💼 as **`Software Engineer Intern`**.
+I'm passionate about meaningful work, user experience, performance, and collaboration. I believe the best tech is invisible
+— when things just work, people feel empowered.
 
-I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
-
-- 🔭 I’m currently working with **`React Native`** developing movile apps 📱.
-- 🌱 I’m currently learning **`Cloud`** and **`Testing`**.
-- 💬 Ask me about **`Front-end`**, **`Design`**, **`Problem Solving`** and **`Code Debugging`**
-- ⚡ Available for **`Freelance`** projects and **`Internships`** opportunities.
+I enjoy working with teams that challenge each other to grow, and with clients who are building something bold. If it improves lives or simplifies the complex.
 
 ---
 
 <div align="center">
 
-### 🛠️ Tools and Technologies
+### 🧰 Tech Stack
+
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -59,18 +57,13 @@ I have a keen interest in 🤝 collaborating and building digital solutions that
 ---
 
 <div align="center">
-  
-**📫 Reach me at:**<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-quintana-a83644243/)](https://www.linkedin.com/in/roberto-quintana-a83644243/)
-[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
-[![GitHub followers](https://img.shields.io/github/followers/rrQuintana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rrQuintana?tab=followers)
+### 📫 Let’s Connect
 
-Let's connect 👨‍💻 and forge the future together. 😁✌
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-quintana-a83644243/)](https://www.linkedin.com/in/roberto-quintana-a83644243/)  
+[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rrquintana7@gmail.com)  
+[![GitHub followers](https://img.shields.io/github/followers/rrQuintana.svg?style=social&label=Follow)](https://github.com/rrQuintana?tab=followers)
+
+Building the future, one line at a time.
 
 </div>
-
-
-
-[mail]:mailto:rrquintana7@gmail.com
-[website]: https://roberto-quintana.web.app/
